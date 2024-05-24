@@ -1,0 +1,4 @@
+C:/Users/maxim/CLionProjects/StaffDemo/cmake-build-debug/CMakeFiles/StaffDemo_lib.dir
+C:/Users/maxim/CLionProjects/StaffDemo/cmake-build-debug/CMakeFiles/StaffDemo.dir
+C:/Users/maxim/CLionProjects/StaffDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxim/CLionProjects/StaffDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

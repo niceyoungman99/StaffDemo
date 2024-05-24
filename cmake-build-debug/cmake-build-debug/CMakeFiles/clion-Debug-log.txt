@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\maxim\CLionProjects\StaffDemo\cmake-build-debug Select CMakeLists.txt
